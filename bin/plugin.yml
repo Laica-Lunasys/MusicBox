@@ -1,0 +1,11 @@
+name: MusicBox
+main: net.shiroumi.musicbox.MusicBox
+version: 1.5
+description: Plays midi files.
+commands:
+  play:
+    description: Play a song
+    usage: /<command> <args>
+  tune:
+    description: Tune in or out of the radio station.
+    usage: /<command> <in/out>
