@@ -4,8 +4,8 @@ version: 1.5
 description: Plays midi files.
 commands:
   play:
-    description: Play a song
-    usage: /<command> <args>
+    description: 音楽を再生します
+    usage: /play <ファイル名>
   tune:
-    description: Tune in or out of the radio station.
-    usage: /<command> <in/out>
+    description: ボックスステーションに接続し曲を聞ける様にします
+    usage: /tune <in/out>
