@@ -1,5 +1,5 @@
-#This only works on the new player
+#use-old-playerオプションが有効な状態では使用できません
 server-playback: false
 
-#Default to the old player. MidiRadio will otherwise try to obtain a sequencer first.
+#起動時にシーケンサを優先して実行します。
 use-old-player: false

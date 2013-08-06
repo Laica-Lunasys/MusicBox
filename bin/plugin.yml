@@ -1,11 +1,11 @@
-name: MusicBox
+ï»¿name: MusicBox
 main: net.shiroumi.musicbox.MusicBox
-version: 1.5
-description: Plays midi files.
+version: 1.0
+description: Startion MusicPlaySystem.
 commands:
   play:
-    description: ‰¹Šy‚ğÄ¶‚µ‚Ü‚·
-    usage: /play <ƒtƒ@ƒCƒ‹–¼>
+    description: éŸ³æ¥½ã‚’å†ç”Ÿã—ã¾ã™
+    usage: /play <ãƒ•ã‚¡ã‚¤ãƒ«å>
   tune:
-    description: ƒ{ƒbƒNƒXƒXƒe[ƒVƒ‡ƒ“‚ÉÚ‘±‚µ‹È‚ğ•·‚¯‚é—l‚É‚µ‚Ü‚·
+    description: ãƒœãƒƒã‚¯ã‚¹ã‚¹ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã«æ¥ç¶šã—æ›²ã‚’èã‘ã‚‹æ§˜ã«ã—ã¾ã™
     usage: /tune <in/out>

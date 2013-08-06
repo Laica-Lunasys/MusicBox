@@ -1,7 +1,7 @@
 ﻿name: MusicBox
 main: net.shiroumi.musicbox.MusicBox
-version: 1.5
-description: Plays midi files.
+version: 1.0
+description: Startion MusicPlaySystem.
 commands:
   play:
     description: 音楽を再生します
